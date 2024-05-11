@@ -1,7 +1,7 @@
 <h1 align="center"><b><img align="center" alt="Coding" width="70" src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Logo.png">&nbsp;&nbsp;&nbsp;Project Documentation:  NEW IPL TEAM  </b></h1>     
 
 <p float="left">
-  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/InShot_20240511_171603299.jpg" width="400" &nbsp;&nbsp;&nbsp;&nbsp;/>
+  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/InShot_20240511_171603299.jpg" width="400" />
   <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/preview-01.jpeg.jpg" width="440" height="400" style="float:right"/>
 </p>
 
