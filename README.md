@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/InShot_20240511_171603299.jpg" width="400" />
-  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/preview-01.jpeg.jpg" width="440" height="400" style="float:right"/>
+  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/preview-01.jpeg.jpg" width="400" height="400" style="float:right"/>
 </p>
 
 
