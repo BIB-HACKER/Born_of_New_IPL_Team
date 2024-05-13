@@ -29,10 +29,21 @@ o	Let’s break down the tables and their columns:
 	Current Team: The team the player currently represents (datatype: string)
 	Nationality: Player’s nationality (datatype: string)
 	Has Social Media: Boolean flag indicating whether the player has a social media presence (datatype: boolean)
+#### Company
+|   |   |
+| ------------ | ------------ |
+|  company_id |  The primary key |
+|  name |  Name of the company |
+| industry  |   Industry in which the company operates |
+|  employees_count |  Count of employees |
+| linkedin_followers  | Number of followers on LinkedIn  |
 ## 4.	Dashboard (Power BI)
 o	We’ve created an interactive dashboard using Power BI. Here’s a screenshot: !Power BI Dashboard
 o	Analysis:
 	We’ll discuss key insights and visualizations from the dashboard.
 o	Final Player List:
 	We’ll provide the list of players based on our analysis.
+#### Search Bar
+
+![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202506.png)
 
