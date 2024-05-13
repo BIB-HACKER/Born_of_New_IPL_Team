@@ -74,3 +74,5 @@ We’ll provide the list of players based on our analysis.
 #### Bowling
 ![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202534.png)
 
+<h1 align="center"><b> THANK YOU </b> </h1>
+
