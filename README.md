@@ -10,7 +10,7 @@
 Welcome to the New IPL Team Analysis project! In this project, we’ll explore data related to the Indian Premier League (IPL) using various sources. Our goal is to gain insights into player statistics, team performance, and social media presence. Let’s dive in!
 
 # Table of Contents
-##    1.	Data Collection
+##  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="25" height="25"/> </a>  1.	Data Collection
 We’ll scrape data from the following sources:
 IPL Official Website,
 Cricket Influencers on Feedspot,
@@ -18,8 +18,8 @@ Kaggle,
 Howzat Blog: Which Indian T20 League Team Has Most Fans?,
 We’ll show the tools used for data scraping.
 <p float="left">
-  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105753.png" width="400" height="450"/>
-  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105914.png" width="400" height="450" style="float:right"/>
+  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105753.png" width="400" height="430"/>
+  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105914.png" width="400" height="430" style="float:right"/>
 </p>
 
 ## 2.	Creating Schema
