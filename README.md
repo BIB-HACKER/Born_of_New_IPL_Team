@@ -21,7 +21,7 @@ o	We’ll discuss the tools used for data scraping.
 o	We’ve designed the schema using Miro. Below is a screenshot of the schema: !Schema Design
 o	Integration of Python scripts with SQL:
 	We’ll explain how Python scripts interact with our SQL database.
-## 3.	Table Descriptions
+## 3. 📊	Table Descriptions
 o	Let’s break down the tables and their columns:
 1.	Players Table
 	PlayerId: Unique identifier for each player (datatype: integer)
@@ -29,21 +29,38 @@ o	Let’s break down the tables and their columns:
 	Current Team: The team the player currently represents (datatype: string)
 	Nationality: Player’s nationality (datatype: string)
 	Has Social Media: Boolean flag indicating whether the player has a social media presence (datatype: boolean)
-#### Company
-|   |   |
-| ------------ | ------------ |
-|  company_id |  The primary key |
-|  name |  Name of the company |
-| industry  |   Industry in which the company operates |
-|  employees_count |  Count of employees |
-| linkedin_followers  | Number of followers on LinkedIn  |
-## 4.	Dashboard (Power BI)
-o	We’ve created an interactive dashboard using Power BI. Here’s a screenshot: !Power BI Dashboard
-o	Analysis:
-	We’ll discuss key insights and visualizations from the dashboard.
-o	Final Player List:
-	We’ll provide the list of players based on our analysis.
-#### Search Bar
+#### Team Players
+| Name              | Type        | Nationality | Team | Sum of RUNS | Sum of MAT | Sum of INNS | Sum of HS | Sum of 4S | Sum of 6S | Sum of 50s | Sum of 100s | Sum of Wkts | Average of RunsConceded | Sum of MAT | Sum of INNS | Average of Econ | Sum of Overs | Sum of 4w |
+|-------------------|-------------|-------------|------|-------------|------------|-------------|-----------|------------|------------|-------------|--------------|--------------|--------------------------|------------|-------------|-----------------|--------------|------------|
+| Arshdeep Singh   | Bowler      | Indian      | PBKS | 25          | 48         | 11          | 13        | 3          | 0          | 0           | 0            | 54           | 359.5                    | 48         | 48          | 8.61            | 166          | 1          |
+| Glenn Maxwell    | Australian  | NAN         | RCB  | 1322        | 55         | 52          | 242       | 117        | 67         | 12          | 0            | 15           | 140.75                   | 55         | 30          | 8.11            | 71           | 0          |
+| Hardik Pandya    | All-Rounder | Indian      | GT   | 1241        | 57         | 54          | 253       | 100        | 57         | 7           | 0            | 11           | 225                      | 31         | 21          | 8.19            | 55           | 0          |
+| Jasprit Bumrah   | Bowler      | Indian      | MI   | 21          | 29         | 8           | 10        | 2          | 0          | 0           | 0            | 63           | 399                      | 43         | 43          | 7.12            | 168          | 2          |
+| Kagiso Rabada    | Bowler      | Overseas    | PBKS | 117         | 45         | 19          | 49        | 11         | 4          | 0           | 0            | 75           | 410.5                    | 51         | 51          | 8.75            | 192          | 4          |
+| KL Rahul         | Wicket-Keeper | Indian    | PBKS | 1296        | 27         | 27          | 230       | 106        | 53         | 11          | 1            | NAN          | NAN                      | NAN        | NAN         | NAN             | NAN          | NAN        |
+| Mohammad Shami   | Bowler      | Indian      | GT   | 20          | 45         | 9           | 16        | 1          | 0          | 0           | 0            | 87           | 466.25                   | 61         | 61          | 8.02            | 231          | 2          |
+| Pat Cummins      | All-Rounder | Overseas    | KKR  | 302         | 26         | 21          | 175       | 19         | 22         | 3           | 0            | 28           | 286                      | 26         | 26          | 9.12            | 99           | 1          |
+| Ravi Bishnoi     | NAN         | NAN         | LSG  | 28          | 38         | 11          | 12        | 2          | 0          | 0           | 0            | 53           | 361.25                   | 52         | 51          | 7.47            | 190          | 0          |
+| Ravindra Jadeja  | All-Rounder | Indian      | CSK  | 765         | 56         | 45          | 163       | 58         | 34         | 2           | 0            | 44           | 335.75                   | 56         | 55          | 7.72            | 175          | 0          |
+| Rishabh Pant     | Wicket-Keeper | Indian    | DC   | 1102        | 44         | 43          | 158       | 108        | 35         | 4           | 0            | NAN          | NAN                      | NAN        | NAN         | NAN             | NAN          | NAN        |
+| Rohit Sharma     | Batsman     | Indian      | MI   | 1313        | 55         | 55          | 256       | 123        | 63         | 6           | 0            | NAN          | NAN                      | NAN        | NAN         | NAN             | NAN          | NAN        |
+| Ruturaj Gaikwad  | NAN         | NAN         | CSK  | 368         | 14         | 14          | 99        | 33         | 14         | 3           | 0            | NAN          | NAN                      | NAN        | NAN         | NAN             | NAN          | NAN        |
+| Shreyas Iyer     | Batsman     | Indian      | KKR  | 1095        | 39         | 39          | 220       | 88         | 32         | 6           | 0            | NAN          | NAN                      | NAN        | NAN         | NAN             | NAN          | NAN        |
+| Suryakumar Yadav | Batsman     | Indian      | MI   | 1705        | 54         | 53          | 332       | 189        | 65         | 14          | 1            | NAN          | NAN                      | NAN        | NAN         | NAN             | NAN          | NAN        |
+| Trent Boult      | Bowler      | Overseas    | RR   | 57          | 55         | 17          | 33        | 3          | 2          | 0           | 0            | 67           | 416.75                   | 55         | 55          | 8               | 208          | 1          |
+| Virat Kohli      | Batsman     | Indian      | RCB  | 1851        | 60         | 60          | 336       | 163        | 44         | 14          | 2            | NAN          | NAN                      | NAN        | NAN         | NAN             | NAN          | NAN        |
+| Yuzvendra Chahal | Bowler      | Indian      | RR   | 16          | 47         | 6           | 14        | 0          | 0          | 0           | 0            | 87           | 434.5                    | 61
+
+
+## 4.	💻 Dashboard (Power BI)
+We’ve created an interactive dashboard using Power BI. Here’s a screenshot: !Power BI Dashboard
+Analysis:
+We’ll discuss key insights and visualizations from the dashboard.
+Final Player List:
+We’ll provide the list of players based on our analysis.
+#### Batting
 
 ![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202506.png)
+#### Bowling
+![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202534.png)
 
