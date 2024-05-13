@@ -32,6 +32,7 @@ PlayerName: Name of the player (datatype: string)
 Current Team: The team the player currently represents (datatype: string)
 Nationality: Player’s nationality (datatype: string)
 And ETC.
+
 #### Team Players Data
 | Name              | Type        | Nationality | Team | Sum of RUNS | Sum of MAT | Sum of INNS | Sum of HS | Sum of 4S | Sum of 6S | Sum of 50s | Sum of 100s | Sum of Wkts | Average of RunsConceded | Sum of MAT | Sum of INNS | Average of Econ | Sum of Overs | Sum of 4w |
 |-------------------|-------------|-------------|------|-------------|------------|-------------|-----------|------------|------------|-------------|--------------|--------------|--------------------------|------------|-------------|-----------------|--------------|------------|
@@ -53,6 +54,7 @@ And ETC.
 | Trent Boult      | Bowler      | Overseas    | RR   | 57          | 55         | 17          | 33        | 3          | 2          | 0           | 0            | 67           | 416.75                   | 55         | 55          | 8               | 208          | 1          |
 | Virat Kohli      | Batsman     | Indian      | RCB  | 1851        | 60         | 60          | 336       | 163        | 44         | 14          | 2            | NAN          | NAN                      | NAN        | NAN         | NAN             | NAN          | NAN        |
 | Yuzvendra Chahal | Bowler      | Indian      | RR   | 16          | 47         | 6           | 14        | 0          | 0          | 0           | 0            | 87           | 434.5                    | 61
+
 
 
 ## 4.	💻 Dashboard (Power BI)
