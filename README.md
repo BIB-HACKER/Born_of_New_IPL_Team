@@ -1,4 +1,4 @@
-<h1 align="center"><b><img align="center" alt="Coding" width="70" src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Logo.png">&nbsp;&nbsp;&nbsp;Project Documentation:  NEW IPL TEAM  </b></h1>     
+<h1 align="center"><b><img align="center" alt="Coding" width="65" src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Logo.png">&nbsp;&nbsp;&nbsp;Project :  NEW IPL TEAM  </b></h1>     
 
 <p align="center">
   <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/InShot_20240511_171603299.jpg" width="400" />
@@ -31,14 +31,13 @@ We’ll explain how Python scripts interact with our SQL database.
 ![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%20(24).png)
 
 ## 3. 📊	Table Descriptions
-Let’s break down the tables and their columns:
-1.	Players Table
+Let’s break down the tables and their columns:<br>
 PlayerName: Name of the player (datatype: string)
 Current Team: The team the player currently represents (datatype: string)
 Nationality: Player’s nationality (datatype: string)
 And ETC.
 
-#### Team Players Data
+#### Players Table
 | Name              | Type        | Nationality | Team | Sum of RUNS | Sum of MAT | Sum of INNS | Sum of HS | Sum of 4S | Sum of 6S | Sum of 50s | Sum of 100s | Sum of Wkts | Average of RunsConceded | Sum of MAT | Sum of INNS | Average of Econ | Sum of Overs | Sum of 4w |
 |-------------------|-------------|-------------|------|-------------|------------|-------------|-----------|------------|------------|-------------|--------------|--------------|--------------------------|------------|-------------|-----------------|--------------|------------|
 | Arshdeep Singh   | Bowler      | Indian      | PBKS | 25          | 48         | 11          | 13        | 3          | 0          | 0           | 0            | 54           | 359.5                    | 48         | 48          | 8.61            | 166          | 1          |
