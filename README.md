@@ -22,7 +22,7 @@ We’ll show the tools used for data scraping.
   <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105914.png" width="400" height="430" style="float:right"/>
 </p>
 
-## 2.	Creating Schema
+## 2.	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> Creating Schema
 o	We’ve designed the schema using Miro. Below is a screenshot of the schema: !Schema Design
 o	Integration of Python scripts with SQL:
 	We’ll explain how Python scripts interact with our SQL database.
@@ -59,7 +59,7 @@ And ETC.
 
 
 
-## 4.	💻 Dashboard (Power BI)
+## 4.	<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power-BI" width="25" height="35"/> </a> Dashboard (Power BI)
 We’ve created an interactive dashboard using Power BI. Here’s a screenshot: !Power BI Dashboard
 Analysis:
 We’ll discuss key insights and visualizations from the dashboard.
