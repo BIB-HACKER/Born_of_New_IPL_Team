@@ -52,3 +52,5 @@ And ETC.
 
 #### Players Table
 ![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20190400.png)
+
+<h1 align="center"><b> THANK YOU </b> </h1>
