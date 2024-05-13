@@ -30,6 +30,19 @@ We’ll explain how Python scripts interact with our SQL database.
 #### Schema
 ![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%20(24).png)
 
+
+## 4.	<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power-BI" width="25" height="35"/> </a> Dashboard (Power BI)
+We’ve created an interactive dashboard using Power BI. Here’s a screenshot: !Power BI Dashboard
+Analysis:
+We’ll discuss key insights and visualizations from the dashboard.
+Final Player List:
+We’ll provide the list of players based on our analysis.
+#### Batting
+
+![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202506.png)
+#### Bowling
+![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202534.png)
+
 ## 3. 📊	Table Descriptions
 Let’s break down the tables and their columns:<br>
 PlayerName: Name of the player (datatype: string)
@@ -59,19 +72,6 @@ And ETC.
 | Virat Kohli      | Batsman     | Indian      | RCB  | 1851        | 60         | 60          | 336       | 163        | 44         | 14          | 2            | NAN          | NAN                      | NAN        | NAN         | NAN             | NAN          | NAN        |
 | Yuzvendra Chahal | Bowler      | Indian      | RR   | 16          | 47         | 6           | 14        | 0          | 0          | 0           | 0            | 87           | 434.5                    | 61
 
-
-
-## 4.	<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power-BI" width="25" height="35"/> </a> Dashboard (Power BI)
-We’ve created an interactive dashboard using Power BI. Here’s a screenshot: !Power BI Dashboard
-Analysis:
-We’ll discuss key insights and visualizations from the dashboard.
-Final Player List:
-We’ll provide the list of players based on our analysis.
-#### Batting
-
-![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202506.png)
-#### Bowling
-![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202534.png)
 
 <h1 align="center"><b> THANK YOU </b> </h1>
 
