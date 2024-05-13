@@ -31,7 +31,7 @@ We’ll explain how Python scripts interact with our SQL database.
 ![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%20(24).png)
 
 
-## 4.	<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power-BI" width="25" height="35"/> </a> Dashboard (Power BI)
+## 3.	<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power-BI" width="25" height="35"/> </a> Dashboard (Power BI)
 We’ve created an interactive dashboard using Power BI. Here’s a screenshot: !Power BI Dashboard
 Analysis:
 We’ll discuss key insights and visualizations from the dashboard.
@@ -43,7 +43,7 @@ We’ll provide the list of players based on our analysis.
 #### Bowling
 ![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-12%20202534.png)
 
-## 3. 📊	Table Descriptions
+## 4. 📊	Table Descriptions
 Let’s break down the tables and their columns:<br>
 PlayerName: Name of the player (datatype: string)
 Current Team: The team the player currently represents (datatype: string)
