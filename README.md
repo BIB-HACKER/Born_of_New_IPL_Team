@@ -23,9 +23,12 @@ We’ll show the tools used for data scraping.
 </p>
 
 ## 2.	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> Creating Schema
-o	We’ve designed the schema using Miro. Below is a screenshot of the schema: !Schema Design
-o	Integration of Python scripts with SQL:
-	We’ll explain how Python scripts interact with our SQL database.
+We’ve designed the schema using Miro. Below is a screenshot of the schema: !Schema Design
+Integration of Python scripts with SQL:
+We’ll explain how Python scripts interact with our SQL database.
+
+#### Schema
+![image](https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%20(24).png)
 
 ## 3. 📊	Table Descriptions
 Let’s break down the tables and their columns:
