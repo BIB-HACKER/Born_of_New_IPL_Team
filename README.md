@@ -11,20 +11,22 @@ Welcome to the New IPL Team Analysis project! In this project, we’ll explore d
 
 # Table of Contents
 ##    1.	Data Collection
-o	We’ll scrape data from the following sources:
-	IPL Official Website
-	Cricket Influencers on Feedspot
-	Kaggle
-	Howzat Blog: Which Indian T20 League Team Has Most Fans?
-o	We’ll discuss the tools used for data scraping.
+We’ll scrape data from the following sources:
+IPL Official Website,
+Cricket Influencers on Feedspot,
+Kaggle,
+Howzat Blog: Which Indian T20 League Team Has Most Fans?,
+We’ll show the tools used for data scraping.
 <p float="left">
-  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105753.png" width="480" height="480"/>
-  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105914.png" width="480" height="480" style="float:right"/>
+  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105753.png" width="400" height="450"/>
+  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105914.png" width="400" height="450" style="float:right"/>
 </p>
+
 ## 2.	Creating Schema
 o	We’ve designed the schema using Miro. Below is a screenshot of the schema: !Schema Design
 o	Integration of Python scripts with SQL:
 	We’ll explain how Python scripts interact with our SQL database.
+
 ## 3. 📊	Table Descriptions
 Let’s break down the tables and their columns:
 1.	Players Table
