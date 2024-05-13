@@ -1,6 +1,6 @@
 <h1 align="center"><b><img align="center" alt="Coding" width="70" src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Logo.png">&nbsp;&nbsp;&nbsp;Project Documentation:  NEW IPL TEAM  </b></h1>     
 
-<p float="left">
+<p align="center">
   <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/InShot_20240511_171603299.jpg" width="400" />
   <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/preview-01.jpeg.jpg" width="400" height="400" style="float:right"/>
 </p>
@@ -10,7 +10,7 @@
 Welcome to the New IPL Team Analysis project! In this project, we’ll explore data related to the Indian Premier League (IPL) using various sources. Our goal is to gain insights into player statistics, team performance, and social media presence. Let’s dive in!
 
 # Table of Contents
-##  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="25" height="25"/> </a>  1.	Data Collection
+## 1.  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="25" height="25"/> </a>	Data Collection
 We’ll scrape data from the following sources:
 IPL Official Website(https://www.iplt20.com/),
 Cricket Influencers on Feedspot(https://influencers.feedspot.com/cricket_instagram_influencers/),
