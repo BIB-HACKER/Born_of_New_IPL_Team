@@ -17,19 +17,22 @@ o	We’ll scrape data from the following sources:
 	Kaggle
 	Howzat Blog: Which Indian T20 League Team Has Most Fans?
 o	We’ll discuss the tools used for data scraping.
+<p float="left">
+  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105753.png" width="480" height="480"/>
+  <img src="https://github.com/BIB-HACKER/Cricket-Fever---Born-of-New-IPL-Team/blob/main/Screenshot%202024-05-13%20105914.png" width="480" height="480" style="float:right"/>
+</p>
 ## 2.	Creating Schema
 o	We’ve designed the schema using Miro. Below is a screenshot of the schema: !Schema Design
 o	Integration of Python scripts with SQL:
 	We’ll explain how Python scripts interact with our SQL database.
 ## 3. 📊	Table Descriptions
-o	Let’s break down the tables and their columns:
+Let’s break down the tables and their columns:
 1.	Players Table
-	PlayerId: Unique identifier for each player (datatype: integer)
-	PlayerName: Name of the player (datatype: string)
-	Current Team: The team the player currently represents (datatype: string)
-	Nationality: Player’s nationality (datatype: string)
-	Has Social Media: Boolean flag indicating whether the player has a social media presence (datatype: boolean)
-#### Team Players
+PlayerName: Name of the player (datatype: string)
+Current Team: The team the player currently represents (datatype: string)
+Nationality: Player’s nationality (datatype: string)
+And ETC.
+#### Team Players Data
 | Name              | Type        | Nationality | Team | Sum of RUNS | Sum of MAT | Sum of INNS | Sum of HS | Sum of 4S | Sum of 6S | Sum of 50s | Sum of 100s | Sum of Wkts | Average of RunsConceded | Sum of MAT | Sum of INNS | Average of Econ | Sum of Overs | Sum of 4w |
 |-------------------|-------------|-------------|------|-------------|------------|-------------|-----------|------------|------------|-------------|--------------|--------------|--------------------------|------------|-------------|-----------------|--------------|------------|
 | Arshdeep Singh   | Bowler      | Indian      | PBKS | 25          | 48         | 11          | 13        | 3          | 0          | 0           | 0            | 54           | 359.5                    | 48         | 48          | 8.61            | 166          | 1          |
